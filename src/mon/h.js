@@ -1,3 +1,4 @@
+/* global __dirname */
 /**
  * Created by iamchenxin on 12/17/15.
  */
