@@ -38,6 +38,13 @@ export function dets(){
     log("1");
     log("2");
     log("# "+__dirname);
+    
+    log(" git test");
+    let array=[1,2,3];
+    for (var i = 0; i < array.length; i++) {
+        let element = array[i];
+        log(` v = ${element}`);
+    }
 
 }
 
