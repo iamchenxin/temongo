@@ -39,7 +39,7 @@ export function dets(){
     log("2");
     log("# "+__dirname);
     
-    log(" git test");
+    log(" vscode push");
     let array=[1,2,3];
     for (var i = 0; i < array.length; i++) {
         let element = array[i];
